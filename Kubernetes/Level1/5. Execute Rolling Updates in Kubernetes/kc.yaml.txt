@@ -1,0 +1,1 @@
+kubectl set image deploy/nginx-deployment nginx-container=nginx:1.18
