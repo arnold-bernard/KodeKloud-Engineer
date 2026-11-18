@@ -1,0 +1,3 @@
+kubectl cp index.php nginx-phpfpm:/usr/share/nginx/html -c nginx-container
+
+Copy the file to the Mount path 

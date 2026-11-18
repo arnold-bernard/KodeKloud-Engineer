@@ -1,0 +1,3 @@
+kubectl set image deploy/<deployment-name> <conatiner-name>=<new image with tag>
+kubectl edit svc/<service-name> -->Ports were changed
+kubectl scale deploy<deployment-name> --replicas=<required number of replicas>

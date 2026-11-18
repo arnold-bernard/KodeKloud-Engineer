@@ -1,0 +1,4 @@
+Using the command
+kubectl edit deploy/<deployment-name>
+
+image name was corrected
